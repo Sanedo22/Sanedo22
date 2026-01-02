@@ -58,48 +58,16 @@
 
 ---
 
-## Featured Projects
-
-<ul style="list-style-type: none; padding-left: 0;">
-  <li>
-    <h3><a href="#">E-Commerce Platform (Django)</a></h3>
-    <p>
-      A fully functional e-commerce website with user authentication, payment gateway integration, and inventory management. <br/>
-      <strong>Tech Used:</strong> Python, Django, MySQL, HTML/CSS. <br/>
-      <strong>View Project:</strong> <a href="#">Link to Repo</a>
-    </p>
-  </li>
-  <br/>
-  <li>
     <h3><a href="#">Management System (Laravel)</a></h3>
     <p>
       An employee management dashboard allowing CRUD operations, reporting, and role-based access control. <br/>
       <strong>Tech Used:</strong> PHP, Laravel, Oracle DB, JavaScript. <br/>
-      <strong>View Project:</strong> <a href="#">Link to Repo</a>
-    </p>
-  </li>
-  <br/>
-  <li>
-    <h3><a href="#">Personal Portfolio</a></h3>
-    <p>
-      A responsive portfolio website to showcase skills, resume, and contact information. <br/>
-      <strong>Tech Used:</strong> HTML5, CSS3, JavaScript, Git. <br/>
-      <strong>View Project:</strong> <a href="#">Link to Repo</a>
-    </p>
-  </li>
-</ul>
-
+  
 ---
 
 ## Certificates
 
-<ul style="list-style-type: none; padding-left: 0;">
-  <li><a href="#"><strong>Python/Django:</strong> Certificate Name Here</a></li>
-  <br/>
-  <li><a href="#"><strong>PHP/Laravel:</strong> Certificate Name Here</a></li>
-  <br/>
-  <li><a href="#"><strong>Database:</strong> Oracle/MySQL Certification</a></li>
-</ul>
+
 
 ---
 
@@ -111,9 +79,3 @@
 
 ### "Talk is cheap. Show me the code." – Linus Torvalds
 
----
-
-### Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dhruv-Patni&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
