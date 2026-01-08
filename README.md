@@ -78,7 +78,7 @@
   </li>
   <br/>
   <li>
-    <h3><a href="https://github.com/Sanedo22/10-12-25Task">Task / Assessment</a></h3>
+    <h3><a href="https://github.com/Sanedo22/laravel-crud">Laravel-CRUD</a></h3>
     <p>
       A focused development task demonstrating specific coding proficiencies and problem-solving skills implemented within a set timeframe.<br/>
       <strong>View Project:</strong> <a href="https://github.com/Sanedo22/10-12-25Task">Link to Repo</a>
