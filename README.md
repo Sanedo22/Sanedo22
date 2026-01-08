@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/Dhruv-Patni?tab=repositories"><img src="https://img.shields.io/badge/Projects-000000?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a>
+  <a href="https://github.com/Sanedo22?tab=repositories"><img src="https://img.shields.io/badge/Projects-000000?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a>
 </p>
 
 ---
@@ -62,43 +62,28 @@
 
 <ul style="list-style-type: none; padding-left: 0;">
   <li>
-    <h3><a href="#">E-Commerce Platform (Django)</a></h3>
+    <h3><a href="https://github.com/Sanedo22/user-management-system">User Management System</a></h3>
     <p>
-      A fully functional e-commerce website with user authentication, payment gateway integration, and inventory management. <br/>
-      <strong>Tech Used:</strong> Python, Django, MySQL, HTML/CSS. <br/>
-      <strong>View Project:</strong> <a href="#">Link to Repo</a>
+      A comprehensive backend system handling user registration, authentication, and administrative controls. Designed for scalability and security.<br/>
+      <strong>View Project:</strong> <a href="https://github.com/Sanedo22/user-management-system">Link to Repo</a>
     </p>
   </li>
   <br/>
   <li>
-    <h3><a href="#">Management System (Laravel)</a></h3>
+    <h3><a href="https://github.com/Sanedo22/manga-reader">Manga Reader</a></h3>
     <p>
-      An employee management dashboard allowing CRUD operations, reporting, and role-based access control. <br/>
-      <strong>Tech Used:</strong> PHP, Laravel, Oracle DB, JavaScript. <br/>
-      <strong>View Project:</strong> <a href="#">Link to Repo</a>
+      A web application designed for browsing and reading manga content. Features a clean interface and optimized content loading.<br/>
+      <strong>View Project:</strong> <a href="https://github.com/Sanedo22/manga-reader">Link to Repo</a>
     </p>
   </li>
   <br/>
   <li>
-    <h3><a href="#">Personal Portfolio</a></h3>
+    <h3><a href="https://github.com/Sanedo22/10-12-25Task">Task / Assessment</a></h3>
     <p>
-      A responsive portfolio website to showcase skills, resume, and contact information. <br/>
-      <strong>Tech Used:</strong> HTML5, CSS3, JavaScript, Git. <br/>
-      <strong>View Project:</strong> <a href="#">Link to Repo</a>
+      A focused development task demonstrating specific coding proficiencies and problem-solving skills implemented within a set timeframe.<br/>
+      <strong>View Project:</strong> <a href="https://github.com/Sanedo22/10-12-25Task">Link to Repo</a>
     </p>
   </li>
-</ul>
-
----
-
-## Certificates
-
-<ul style="list-style-type: none; padding-left: 0;">
-  <li><a href="#"><strong>Python/Django:</strong> Certificate Name Here</a></li>
-  <br/>
-  <li><a href="#"><strong>PHP/Laravel:</strong> Certificate Name Here</a></li>
-  <br/>
-  <li><a href="#"><strong>Database:</strong> Oracle/MySQL Certification</a></li>
 </ul>
 
 ---
@@ -115,5 +100,5 @@
 
 ### Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dhruv-Patni&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Sanedo22&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
