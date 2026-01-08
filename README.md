@@ -90,7 +90,7 @@
 
 ## Let's Connect
 - Ask me about Django, Laravel, Database Management, or Web Architecture.
-- Reach me at **your-email@example.com**
+- Reach me at **patnidhruv13@gmail.com**
 
 ---
 
