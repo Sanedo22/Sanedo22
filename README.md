@@ -11,7 +11,11 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2ea44f&height=120&section=header&text=PHP%20%26%20Laravel%20Developer&fontSize=50&animation=fadeIn" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sanedo22/Sanedo22/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sanedo22/Sanedo22/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sanedo22/Sanedo22/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <br/>
