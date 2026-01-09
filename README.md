@@ -11,9 +11,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sanedo22&theme=radical&no-bg=true&column=4" alt="github trophy" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2ea44f&height=120&section=header&text=PHP%20%26%20Laravel%20Developer&fontSize=50&animation=fadeIn" />
 </div>
 
 <br/>
