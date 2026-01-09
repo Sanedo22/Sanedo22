@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="150" />
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="150" />
   
   <br/>
 
@@ -11,11 +11,9 @@
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sanedo22/Sanedo22/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sanedo22/Sanedo22/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sanedo22/Sanedo22/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanedo22&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Dhruv's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanedo22&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Most Used Languages" />
 </div>
 
 <br/>
@@ -41,7 +39,7 @@
 
 * **[User Management System](https://github.com/Sanedo22/user-management-system)**: A comprehensive backend system built with **Core PHP**. Features secure authentication, PDO for SQL protection, and full CRUD functionality.
 * **[Manga Reader](https://github.com/Sanedo22/manga-reader)**: A web application designed for browsing manga content, focusing on a clean interface and optimized data handling.
-* **[LaravelCrud](https://github.com/Sanedo22/laravel-crud)**: A technical development task demonstrating logic implementation and problem-solving skills.
+* **[LaravelCrud](https://github.com/Sanedo22/laravel-crud)**: A specialized project demonstrating the implementation of CRUD operations using the Laravel framework, focusing on MVC architecture.
 
 ---
 
