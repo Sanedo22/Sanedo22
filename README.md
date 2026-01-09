@@ -41,7 +41,7 @@
 
 * **[User Management System](https://github.com/Sanedo22/user-management-system)**: A comprehensive backend system built with **Core PHP**. Features secure authentication, PDO for SQL protection, and full CRUD functionality.
 * **[Manga Reader](https://github.com/Sanedo22/manga-reader)**: A web application designed for browsing manga content, focusing on a clean interface and optimized data handling.
-* **[10-12-25Task](https://github.com/Sanedo22/10-12-25Task)**: A technical development task demonstrating logic implementation and problem-solving skills.
+* **[LaravelCrud](https://github.com/Sanedo22/laravel-crud)**: A technical development task demonstrating logic implementation and problem-solving skills.
 
 ---
 
