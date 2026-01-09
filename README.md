@@ -11,9 +11,10 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanedo22&show_icons=true&theme=dark&hide_border=false&count_private=true" alt="Dhruv's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanedo22&layout=compact&theme=dark&hide_border=false&langs_count=6" alt="Most Used Languages" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div>
 
 <br/>
@@ -21,7 +22,7 @@
 <div align="center">
   <h3>🛠 Toolkit</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,bootstrap,html,css,js,git,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,bootstrap,html,css,js,git,github,vscode&theme=dark" />
   </a>
 </div>
 
