@@ -11,9 +11,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanedo22&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Dhruv's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanedo22&show_icons=true&theme=dark&hide_border=false&count_private=true" alt="Dhruv's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanedo22&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanedo22&layout=compact&theme=dark&hide_border=false&langs_count=6" alt="Most Used Languages" />
 </div>
 
 <br/>
@@ -39,7 +39,7 @@
 
 * **[User Management System](https://github.com/Sanedo22/user-management-system)**: A comprehensive backend system built with **Core PHP**. Features secure authentication, PDO for SQL protection, and full CRUD functionality.
 * **[Manga Reader](https://github.com/Sanedo22/manga-reader)**: A web application designed for browsing manga content, focusing on a clean interface and optimized data handling.
-* **[LaravelCrud](https://github.com/Sanedo22/laravel-crud)**: A specialized project demonstrating the implementation of CRUD operations using the Laravel framework, focusing on MVC architecture.
+* **[LaravelCrud](https://github.com/Sanedo22/laravel-crud)**: A specialized project demonstrating the implementation of CRUD operations using the Laravel framework.
 
 ---
 
